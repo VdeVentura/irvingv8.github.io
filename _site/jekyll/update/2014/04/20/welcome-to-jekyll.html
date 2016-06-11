@@ -25,12 +25,6 @@
 
 		<label class="mobile-nav-expand-label" for="mobile-nav-expand-checkbox">
 			<div class="mobile-nav-expand"/></div>
-			<div id="nav-icon3">
-				<span></span>
-				<span></span>
-				<span></span>
-				<span></span>
-			</div>
 		</label>
 
 		<ul class="navigation">
@@ -45,7 +39,7 @@
 	</div>
 	<div class="site">
 
-		<ul class="mobile-navigation">
+		<ul class="mobile-navigation height-fix">
 			<li><a data-scroll href="#home"><div>Home</div></a></li>
 			<li><a data-scroll href="#about"><div>About</div></a></li>
 			<li><a data-scroll href="#education"><div>Education</div></a></li>
@@ -167,12 +161,21 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
 			$(".circle-button").animateCss('bounceInUp');
 		}
 
+		var fixAddressBarBug = function ()
+		{
+			if ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ){
+				var h = $('.height-fix').height() - 60;
+				$('.height-fix').height(h);
+			}
+		}
+
 
 
 		$(window).scroll(activeNavElement);
 		$(document).ready(function(){
 			activeNavElement();
 			bounceCircleButton();
+			fixAddressBarBug();
 		});
 
 	</script>
