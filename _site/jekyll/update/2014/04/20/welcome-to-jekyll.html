@@ -16,14 +16,21 @@
 
 </head>
 <body>
+	<input hidden="hidden" type="radio" name="mobile-nav-toggle" id="mobile-nav-expand-checkbox" value="">
 
 	<div class="header">
 		<div class="title">
 			<a href="/">Irving Ventura</a>
 		</div>
 
-		<label class="mobile-nav-toggle-label" for="mobile-nav-toggle-checkbox">
-			<div class="mobile-nav-toggle"/></div>
+		<label class="mobile-nav-expand-label" for="mobile-nav-expand-checkbox">
+			<div class="mobile-nav-expand"/></div>
+			<div id="nav-icon3">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
 		</label>
 
 		<ul class="navigation">
@@ -36,7 +43,6 @@
 		</ul>
 
 	</div>
-	<input hidden="hidden" type="checkbox" name="mobile-nav-toggle-checkbox" id="mobile-nav-toggle-checkbox" value="">
 	<div class="site">
 
 		<ul class="mobile-navigation">
@@ -83,7 +89,14 @@ To add new posts, simply add a file in the <code>_posts</code> directory that fo
 				</p>
 			</div>
 		</div>
+
+		<label class="mobile-nav-collapse-label" for="mobile-nav-collapse-checkbox">
+			<!-- <div class="mobile-nav-collapse"/></div> -->
+		</label>
+
 	</div>
+
+	<input hidden="hidden" type="radio" name="mobile-nav-toggle" id="mobile-nav-collapse-checkbox" value="">
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/10.0.0/js/smooth-scroll.min.js"></script>
