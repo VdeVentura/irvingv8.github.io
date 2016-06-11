@@ -5,6 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>{{ page.title }}</title>
 	<meta name="viewport" content="width=device-width">
+	<meta name="theme-color" content="#0288D1" />
 	<!-- Custom CSS -->
 	<link rel="stylesheet" href="/css/main.css">
 	<link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
@@ -66,7 +67,7 @@
 			</div>
 		</div>
 
-		<label class="mobile-nav-collapse-label" for="mobile-nav-collapse-checkbox">
+		<label class="mobile-nav-collapse-label height-fix" for="mobile-nav-collapse-checkbox">
 			<!-- <div class="mobile-nav-collapse"/></div> -->
 		</label>
 
@@ -146,7 +147,7 @@
 		var fixAddressBarBug = function ()
 		{
 			if ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ){
-				var h = $('.height-fix').height() - 60;
+				var h = $('.height-fix').height();
 				$('.height-fix').height(h);
 			}
 		}
