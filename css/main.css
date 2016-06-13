@@ -693,13 +693,19 @@ section.home {
 .profile-wrapper {
   display: -ms-flexbox;
   display: flex;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   -ms-flex-align: center;
-      align-items: center; }
+      align-items: center;
+  -ms-flex-pack: center;
+      justify-content: center; }
 
 .main-header {
   text-align: center;
   color: black;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.6);
   font-size: 90px;
   line-height: 90px;
   padding: 10px 0;
@@ -712,6 +718,9 @@ section.home {
   color: rgba(255, 255, 255, 0.7);
   font-size: 20px;
   padding: 5px; }
+  @media (max-width: 645px) {
+    .main-subheader {
+      text-align: center; } }
 
 .flex-container {
   display: -ms-flexbox;
