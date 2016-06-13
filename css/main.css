@@ -559,6 +559,17 @@ body.scrolled .header {
 a {
   outline: 0; }
 
+.profile-img {
+  height: 120px;
+  width: 120px;
+  display: inline;
+  border-radius: 50%;
+  margin-right: 20px;
+  background-image: url(https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xft1/t51.2885-15/e15/11380205_835645333137222_650361896_n.jpg?ig_cache_key=NjE2MjUwODY4NzIwODkzNDk2.2);
+  background-size: 225px;
+  background-position: 50% 40%;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); }
+
 .learn-more {
   text-decoration: none;
   margin-bottom: 20px;
@@ -679,6 +690,12 @@ section.home {
       background-size: auto 100%;
       background-repeat: no-repeat; } }
 
+.profile-wrapper {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+      align-items: center; }
+
 .main-header {
   text-align: center;
   color: black;
@@ -690,7 +707,8 @@ section.home {
   font-family: 'lato'; }
 
 .main-subheader {
-  text-align: center;
+  display: inline;
+  text-align: left;
   color: rgba(255, 255, 255, 0.7);
   font-size: 20px;
   padding: 5px; }

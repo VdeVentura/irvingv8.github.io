@@ -1,7 +1,18 @@
 a{
 	outline: 0;
 }
-
+.profile-img
+{
+	height: 120px;
+	width: 120px;
+	display: inline;
+	border-radius: 50%;
+	margin-right: 20px;
+	background-image: url(https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xft1/t51.2885-15/e15/11380205_835645333137222_650361896_n.jpg?ig_cache_key=NjE2MjUwODY4NzIwODkzNDk2.2);
+	background-size: 225px;
+	background-position: 50% 40%;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
 .learn-more{
 	// display: block;
 	text-decoration: none;

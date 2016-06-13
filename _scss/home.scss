@@ -21,6 +21,10 @@ section.home
 	}
 }
 
+.profile-wrapper{
+	display: flex;
+	align-items: center;
+}
 .main-header{
 	text-align: center;
 	color: rgba(0,0,0,1);
@@ -30,10 +34,12 @@ section.home
 	padding: 10px 0;
 	font-weight: 900;
 	font-family: 'lato';
+
 }
 
 .main-subheader{
-	text-align: center;
+	display: inline;
+	text-align: left;
 	color: rgba(255,255,255,.7);
 	font-size: 20px;
 	padding: 5px;
