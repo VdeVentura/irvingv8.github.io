@@ -17,6 +17,15 @@
 
 </head>
 <body>
+
+	<div class="loader-wrapper">
+		<div class="loader">
+			<div id="loader"></div>
+			<div class="loader-section section-left"></div>
+    		<div class="loader-section section-right"></div>
+		</div>
+	</div>
+
 	<input hidden="hidden" type="radio" name="mobile-nav-toggle" id="mobile-nav-expand-checkbox" value="">
 
 	<div class="header">
@@ -155,18 +164,17 @@
 	<script>smoothScroll.init({speed: 1000,easing: 'easeInOutCubic',offset: 60,updateURL: false});</script>
 
 	<script>
-	$.fn.extend({
-    	animateCss: function (animationName) {
-			var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
+		$.fn.extend({
+	    	animateCss: function (animationName) {
+				var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
 
-			$(this).addClass('animated ' + animationName).one(animationEnd, function() {
-            	$(this).removeClass('animated ' + animationName);
-        	});
-    	}
-	});
+				$(this).addClass('animated ' + animationName).one(animationEnd, function() {
+	            	$(this).removeClass('animated ' + animationName);
+	        	});
+	    	}
+		});
 
 		var bodyScrolled = function(){
-
 			// console.log('calling bodyScrolled');
 			if(($('body').scrollTop() || $('html').scrollTop())> 0)
 			{
@@ -178,7 +186,15 @@
 				// console.log('removing class');
 			}
 		}
+
+		var bodyLoaded = function(){
+			setTimeout(function() {
+			    $('body').addClass('loaded');
+			}, 3000);
+		}
+
 		var aChildren = $(".navigation li").children(); // find the a children of the list items
+
 	    var aArray = []; // create the empty aArray
 	    for (var i=0; i < aChildren.length; i++) {
 	        var aChild = aChildren[i];
@@ -187,7 +203,9 @@
 	    } // this for loop fills the aArray with attribute href values
 
 		var activeNavElement = function(){
+
 			bodyScrolled();
+
 	        var windowPos = $(window).scrollTop(); // get the offset of the window from the top of page
 	        var windowHeight = $(window).height(); // get the height of the window
 	        var docHeight = $(document).height();
@@ -230,6 +248,8 @@
 		$(document).ready(function(){
 			activeNavElement();
 			bounceCircleButton();
+			bodyLoaded();
+
 			// fixAddressBarBug();
 		});
 
