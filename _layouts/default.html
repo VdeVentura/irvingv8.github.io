@@ -18,12 +18,10 @@
 </head>
 <body>
 
-	<div class="loader-wrapper">
-		<div class="loader">
-			<div id="loader"></div>
-			<div class="loader-section section-left"></div>
-    		<div class="loader-section section-right"></div>
-		</div>
+	<div class="loader">
+		<div id="loader"></div>
+		<div class="loader-section section-left"></div>
+		<div class="loader-section section-right"></div>
 	</div>
 
 	<input hidden="hidden" type="radio" name="mobile-nav-toggle" id="mobile-nav-expand-checkbox" value="">
@@ -118,7 +116,7 @@
 		var bodyLoaded = function(){
 			setTimeout(function() {
 			    $('body').addClass('loaded');
-			}, 3000);
+			}, 1000);
 		}
 
 		var aChildren = $(".navigation li").children(); // find the a children of the list items
