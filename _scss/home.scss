@@ -9,18 +9,11 @@ section.home
 	position: relative;
 	margin: 0 -10vw;
 	padding: 0 10vw;
-	background-image: url(https://images.unsplash.com/photo-1453090643118-eae60f5bc58a?format=auto&auto=compress&dpr=1&crop=entropy&fit=crop&w=1855&h=1237&q=80);
+	background-image: url('/assets/images/Home_Background.png');
 	background-attachment: fixed;
-	background-size: 110%;
-    background-position: 73% 15%;
-	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 
-
-	@media (max-width: 800px)
-	{
-		background-position: 53% 15%;
-		background-size: auto 100%;
-	}
 }
 
 .profile-wrapper{

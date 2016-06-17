@@ -467,7 +467,6 @@ body.scrolled .header {
   ul.mobile-navigation {
     position: fixed;
     left: -250px;
-    top: 60px;
     padding-left: 50px;
     background-color: #333;
     display: -ms-flexbox;
@@ -478,7 +477,7 @@ body.scrolled .header {
         align-items: flex-start;
     -ms-flex-pack: center;
         justify-content: center;
-    height: calc(100vh - 60px);
+    height: calc(100vh);
     width: 150px;
     z-index: 9999;
     list-style: none;
@@ -533,13 +532,13 @@ body.scrolled .header {
     height: 0px;
     transition: opacity 0.6s; }
   #mobile-nav-expand-checkbox:checked ~ .site > .mobile-nav-collapse-label {
+    z-index: 11;
     width: 100%;
-    height: calc(100vh - 60px);
+    height: calc(100vh);
     left: 0;
     opacity: 1;
     position: fixed;
     right: 0;
-    top: 60px;
     background-color: rgba(0, 0, 0, 0.5); }
   #mobile-nav-expand-checkbox:checked ~ .header .mobile-nav-expand-label .mobile-nav-expand {
     background: transparent; }
@@ -782,15 +781,10 @@ section.home {
   position: relative;
   margin: 0 -10vw;
   padding: 0 10vw;
-  background-image: url(https://images.unsplash.com/photo-1453090643118-eae60f5bc58a?format=auto&auto=compress&dpr=1&crop=entropy&fit=crop&w=1855&h=1237&q=80);
+  background-image: url("/assets/images/Home_Background.png");
   background-attachment: fixed;
-  background-size: 110%;
-  background-position: 73% 15%;
-  background-repeat: no-repeat; }
-  @media (max-width: 800px) {
-    section.home {
-      background-position: 53% 15%;
-      background-size: auto 100%; } }
+  background-size: cover;
+  background-position: center; }
 
 .profile-wrapper {
   display: -ms-flexbox;
