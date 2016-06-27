@@ -781,7 +781,6 @@ section.home {
   position: relative;
   margin: 0 -10vw;
   padding: 0 10vw;
-  background-image: url("/assets/images/Home_Background.png");
   background-attachment: fixed;
   background-size: cover;
   background-position: center; }
