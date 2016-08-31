@@ -15,7 +15,7 @@ $accent_color:#7C4DFF;
 @import "home";
 
 body{
-	background: #FFFFFF url(https://mackenziechild.me/wp-content/themes/mackenziechild_2016/images/topo_bg.png);
+	background: #eee url(https://mackenziechild.me/wp-content/themes/mackenziechild_2016/images/topo_bg.png);
 	background-size: 65%;
 	overflow-x: hidden;
 	font: 13.34px 'roboto';
@@ -31,4 +31,23 @@ body{
 section
 {
 	// padding-top: 60px;
+}
+
+.highlight{
+	font-weight: bold;
+	background: transparent;
+	position: relative;
+	display: inline-block;
+	&:before{
+		content: "";
+		display: block;
+		background-color:rgba(124, 77, 255,0.4);
+		position: absolute;
+		top: 0px;
+		left: -8%;
+		z-index: -1;
+		width: 116%;
+		height: 100%;
+		transform: skewY(-24deg) rotate(24deg);
+	}
 }
