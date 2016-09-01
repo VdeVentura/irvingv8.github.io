@@ -26,6 +26,9 @@ body.scrolled .header
 		{
 			font-size: 40px;
 			color: white;
+			@media screen and (max-width: 350px){
+				font-size: 35px;
+			}
 		}
 	}
 

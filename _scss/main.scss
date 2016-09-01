@@ -27,27 +27,3 @@ body{
 	margin: auto;
 	position: relative;
 }
-
-section
-{
-	// padding-top: 60px;
-}
-
-.highlight{
-	font-weight: bold;
-	background: transparent;
-	position: relative;
-	display: inline-block;
-	&:before{
-		content: "";
-		display: block;
-		background-color:rgba(124, 77, 255,0.4);
-		position: absolute;
-		top: 0px;
-		left: -8%;
-		z-index: -1;
-		width: 116%;
-		height: 100%;
-		transform: skewY(-24deg) rotate(24deg);
-	}
-}

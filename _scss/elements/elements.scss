@@ -1,6 +1,26 @@
 a{
 	outline: 0;
 }
+
+.highlight{
+	font-weight: bold;
+	background: transparent;
+	position: relative;
+	display: inline-block;
+	&:before{
+		content: "";
+		display: block;
+		background-color:rgba(124, 77, 255,0.4);
+		position: absolute;
+		top: 0px;
+		left: -8%;
+		z-index: -1;
+		width: 116%;
+		height: 100%;
+		transform: skewY(-24deg) rotate(24deg);
+	}
+}
+
 .profile-img
 {
 	height: 120px;
@@ -12,7 +32,7 @@ a{
 	background-size: 225px;
 	background-position: 50% 40%;
 	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-	
+
 	@media (max-width: 645px){
 		margin: 0 10px;
 	}

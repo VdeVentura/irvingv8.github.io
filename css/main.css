@@ -420,6 +420,9 @@ body.scrolled .header {
     .header .title a {
       font-size: 40px;
       color: white; }
+      @media screen and (max-width: 350px) {
+        .header .title a {
+          font-size: 35px; } }
   .header ul.navigation {
     -ms-flex: 0 0 66.66666%;
         flex: 0 0 66.66666%;
@@ -557,6 +560,24 @@ body.scrolled .header {
 
 a {
   outline: 0; }
+
+.highlight {
+  font-weight: bold;
+  background: transparent;
+  position: relative;
+  display: inline-block; }
+  .highlight:before {
+    content: "";
+    display: block;
+    background-color: rgba(124, 77, 255, 0.4);
+    position: absolute;
+    top: 0px;
+    left: -8%;
+    z-index: -1;
+    width: 116%;
+    height: 100%;
+    -webkit-transform: skewY(-24deg) rotate(24deg);
+            transform: skewY(-24deg) rotate(24deg); }
 
 .profile-img {
   height: 120px;
@@ -793,11 +814,12 @@ section.about {
           padding: 10px;
           min-width: 150px;
           margin: 20px -10%; } }
-  section.about .about3 {
-    width: 100%;
-    height: 200px;
-    background: orange;
-    border: solid grey; }
+  section.about .separator-icons {
+    text-align: center;
+    font-size: 30px;
+    color: #03a9f4; }
+    section.about .separator-icons i {
+      margin: 0 20px; }
 
 .main-header {
   color: #03A9F4;
@@ -892,21 +914,3 @@ body {
   margin: 60px auto 0;
   margin: auto;
   position: relative; }
-
-.highlight {
-  font-weight: bold;
-  background: transparent;
-  position: relative;
-  display: inline-block; }
-  .highlight:before {
-    content: "";
-    display: block;
-    background-color: rgba(124, 77, 255, 0.4);
-    position: absolute;
-    top: 0px;
-    left: -8%;
-    z-index: -1;
-    width: 116%;
-    height: 100%;
-    -webkit-transform: skewY(-24deg) rotate(24deg);
-            transform: skewY(-24deg) rotate(24deg); }
