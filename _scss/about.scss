@@ -51,6 +51,11 @@ section.about
 			    top: -35px;
 			    background-size: cover;
 			    transform: rotateZ(-100deg) rotateY(180deg);
+				@media screen and (max-width: 425px){
+					right: 40px;
+					top: 120px;
+					transform: rotateZ(75deg) rotateY(180deg);
+				}
 			}
 			&:before{
 			    content: "Thats me!";
@@ -59,6 +64,10 @@ section.about
 			    position: absolute;
 			    right: -50px;
 			    top: -40px;
+				@media screen and (max-width: 425px){
+					left: -50px;
+					top: 205px;
+				}
 			}
 		}
 		.about2-2{
@@ -75,6 +84,7 @@ section.about
 			@media screen and (max-width: 425px){
 				padding: 10px;
 				min-width: 150px;
+				margin: 20px -10%;
 			}
 		}
 	}
