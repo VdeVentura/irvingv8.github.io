@@ -38,7 +38,7 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-              Gatsby!!!
+              Irving Ventura
             </Link>
           </Container>
         </Headroom>
