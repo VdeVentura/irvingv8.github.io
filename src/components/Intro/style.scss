@@ -1,0 +1,35 @@
+.site-intro {
+  margin-bottom: 15px;
+  background: white;
+  padding: 15px;
+  box-shadow: 0 0 8px 0px rgba(0, 0, 0, 0.5);
+
+  > .title {
+    font-size: 8vw;
+    color: #03A9F4;
+    margin: 10px 0;
+  }
+
+  > .slogan {
+    width: 100%;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.3);
+    font-family: Roboto Mono;
+    font-size: 20px;
+
+    > .fa {
+      color: rgba(3, 169, 244, 0.3);
+      font-size: 25px;
+      padding: 0 5px;
+    }
+  }
+}
+
+@media (min-width: 800px) {
+  .site-intro {
+
+    > .title {
+      font-size: 50px;
+    }
+  }
+}

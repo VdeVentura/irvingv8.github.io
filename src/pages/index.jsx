@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import Intro from '../components/Intro';
 import PostListing from "../components/PostListing/PostListing";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
@@ -11,6 +12,7 @@ class Index extends React.Component {
       <div className="index-container">
         <Helmet title={config.siteTitle} />
         <SEO postEdges={postEdges} />
+        <Intro/>
         <PostListing postEdges={postEdges} />
       </div>
     );
@@ -23,7 +25,7 @@ export default Index;
 export const pageQuery = graphql`
   query IndexQuery {
     allMarkdownRemark(
-      limit: 2000
+      limit: 5
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
