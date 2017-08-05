@@ -1,7 +1,8 @@
 import React from "react";
 import Helmet from "react-helmet";
 import config from "../../data/SiteConfig";
-import "./index.css";
+import Sidebar from '../components/Sidebar';
+import "./index.scss";
 
 export default class MainLayout extends React.Component {
   getLocalTitle() {
@@ -46,7 +47,12 @@ export default class MainLayout extends React.Component {
           <title>{`${config.siteTitle} |  ${this.getLocalTitle()}`}</title>
           <meta name="description" content={config.siteDescription} />
         </Helmet>
-        {children()}
+        <div className="wrapper">
+            <Sidebar />
+            <div className="content">
+              {children()}
+            </div>
+        </div>
       </div>
     );
   }
