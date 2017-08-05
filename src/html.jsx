@@ -34,6 +34,8 @@ export default class HTML extends React.Component {
             name="viewport"
             content="width=device-width, initial-scale=1.0"
           />
+          <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono" rel="stylesheet" />
+          <script src="https://use.fontawesome.com/2d82758dea.js"></script>
           {this.props.headComponents}
           <link rel="shortcut icon" href={favicon} />
           {css}
