@@ -1,0 +1,29 @@
+.post-list {
+  > .title {
+    font-size: 8vw;
+    color: #03A9F4;
+    margin: 10px 0;
+  }
+}
+
+@media (min-width: 800px) {
+  .post-list {
+    padding: 50px 50px 0;
+
+    > .title {
+      margin-left: -35px;
+      font-size: 50px;
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  .post-list {
+    padding: 50px 100px 0;
+
+    > .title {
+      margin-left: -85px;
+      font-size: 50px;
+    }
+  }
+}
