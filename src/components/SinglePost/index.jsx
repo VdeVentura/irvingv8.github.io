@@ -5,11 +5,10 @@ import './style.scss';
 class SinglePost extends React.Component {
   render() {
     const { post } = this.props;
-    // console.log(post);
     return (
       <article className="post-preview">
         <Link to={post.path}>
-          <div className="cover" style={{backgroundImage: `url(${post.cover})`}}></div>
+          <div className="cover" style={{backgroundImage: `url(${post.image})`}}></div>
           <div className="details">
             <h1 className="title">
               {post.title}
@@ -17,6 +16,9 @@ class SinglePost extends React.Component {
             <p className="excerpt">
               {post.excerpt}
             </p>
+            <div>
+              {post.date}
+            </div>
           </div>
         </Link>
       </article>

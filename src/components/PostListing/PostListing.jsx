@@ -7,11 +7,11 @@ class PostListing extends React.Component {
   getPostList() {
     const postList = [];
     this.props.postEdges.forEach(postEdge => {
-      console.log(postEdge);
       postList.push({
         path: postEdge.node.fields.slug,
         tags: postEdge.node.frontmatter.tags,
         cover: postEdge.node.frontmatter.cover,
+        image: postEdge.node.frontmatter.image ? postEdge.node.frontmatter.image.childImageSharp.original.src : `https://unsplash.it/300?image=${Math.floor((Math.random() * 1000) + 1)}`,
         title: postEdge.node.frontmatter.title,
         date: postEdge.node.frontmatter.date,
         excerpt: postEdge.node.excerpt,
@@ -22,7 +22,6 @@ class PostListing extends React.Component {
   }
 
   renderPosts(postList) {
-    console.log(postList);
     return postList.map(post =>
         <SinglePost post={post} key={post.title}/>
     );

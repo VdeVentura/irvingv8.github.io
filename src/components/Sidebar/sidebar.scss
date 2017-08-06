@@ -1,7 +1,7 @@
 .sidebar {
   height: 70px;
-  position: relative;
   position: fixed;
+  z-index: 1000;
 
   .hamburger {
     font-size: 30px;
@@ -61,7 +61,7 @@
     display: flex;
     align-items: center;
     color: #03A9F4;
-    font-size: 15px;
+    font-size: 18px;
     box-shadow: 0 0 8px 0px rgba(0, 0, 0, 0.5);
     z-index: 5;
 
@@ -158,11 +158,11 @@
 
 @media (min-width: 800px) {
   .sidebar {
-    // position: relative;
     flex-shrink: 0;
     width: 300px!important;
     height: 100vh;
     background: #373A47;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.3);
 
     .profile-name {
       width: auto;
@@ -179,6 +179,7 @@
         border-radius: 0;
         width: 100%;
         height: auto;
+        box-shadow: none;
       }
     }
 

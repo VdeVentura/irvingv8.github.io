@@ -37,9 +37,16 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
-            tags
             cover
+            tags
             date
+            image {
+              childImageSharp {
+                original {
+                  src
+                }
+              }
+            }
           }
         }
       }

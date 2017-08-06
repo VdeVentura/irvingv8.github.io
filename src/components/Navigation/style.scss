@@ -1,10 +1,10 @@
 .menu {
-
+margin: 25px 0;
   > .menu-list {
     list-style: none;
     padding: 0;
     margin: 25px 25px 25px;
-    font-family: 'Roboto Mono';
+    font-family: 'Roboto Slab';
 
     > .list-item {
       margin: 10px 0;
@@ -12,13 +12,23 @@
       a {
         text-decoration: none;
         color: #b8b7ad;
-        border-bottom: 1px solid #b8b7ad;
         font-size: 20px;
         transition: all 0.3s linear;
 
         &:hover, &.active {
           color: #03A9F4;
-          border-bottom: 1px solid #03A9F4;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 800px) {
+  .menu {
+    > .menu-list {
+      > .list-item {
+        a {
+          font-size: 25px;
         }
       }
     }
