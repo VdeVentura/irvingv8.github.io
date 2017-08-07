@@ -14,7 +14,7 @@
     max-width: 300px;
     height: 100%;
     min-height: calc(100vh - 70px);
-    background: #373A47;
+    background: rgb(23, 32, 47);
     display: flex;
     flex-direction: column;
     transition: transform 0.3s ease-in-out;
@@ -55,7 +55,7 @@
     }
   }
   .profile-name {
-    background: #373A47;
+    background: rgb(23, 32, 47);
     width: 100vw;
     height: 70px;
     display: flex;
@@ -171,7 +171,9 @@
       position: absolute;
       top: 240px;
     }
-
+    .overlay {
+      display: none;
+    }
     .profile-img {
       margin: 0;
 
