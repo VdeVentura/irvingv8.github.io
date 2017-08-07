@@ -40,6 +40,16 @@
     > .excerpt {
       color: black;
     }
+
+    > .date {
+      color: black;
+      text-align: right;
+      font-style: italic;
+
+      > span {
+        color: #03A9F4;
+      }
+    }
   }
 }
 

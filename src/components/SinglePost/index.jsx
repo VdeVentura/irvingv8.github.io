@@ -17,7 +17,10 @@ class SinglePost extends React.Component {
               {post.excerpt}
             </p>
             <div>
-              {post.date}
+              
+            </div>
+            <div className="date">
+              Published on <span>{post.date}</span>
             </div>
           </div>
         </Link>
