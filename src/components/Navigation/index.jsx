@@ -28,9 +28,9 @@ class Navigation extends Component {
           </li>
 
           <li className="list-item" onClick={this.props.clickHandler}>
-            <a href="#">
+            <Link exact to="/resume" activeClassName="active">
               <i className="fa fa-file-text" aria-hidden="true"></i> Resume
-            </a>
+            </Link>
           </li>
 
         </ul>
