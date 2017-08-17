@@ -23,10 +23,7 @@
     margin-bottom: -15px;
   }
   p {
-    margin-top: 30px;
-  }
-  a{
-    color: #03A9F4;
+    margin-top: 30px!important;
   }
 
   > .title {
@@ -44,6 +41,29 @@
     }
   }
 
+  > .post-body, .post-meta, #disqus_thread {
+    width: 100%;
+    margin: auto;
+    max-width: 1000px;
+
+    @media (min-width: 1200px) {
+      width: 80%;
+    }
+  }
+
+  .post-meta {
+    margin-top: 50px;
+  }
+
+  .post-date {
+    font-style: italic;
+    margin-left: auto;
+
+    .date {
+      color: #ff6d00;
+    }
+  }
+
   .image {
     margin: 25px auto;
 
@@ -57,7 +77,6 @@
 
 @media (min-width: 800px) {
   .full-post {
-    padding: 20px 10%;
     margin-top: -20px;
     margin-bottom: -20px;
     margin-right: -20px;
@@ -66,15 +85,4 @@
 
 .gatsby-resp-image-wrapper {
   z-index: 0!important
-}
-
-@media (min-width: 1200px) {
-  .full-post {
-    padding: 20px 20%;
-
-    .image {
-      width: 70%;
-      margin: 50px auto;
-    }
-  }
 }

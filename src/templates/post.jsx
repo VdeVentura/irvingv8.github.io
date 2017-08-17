@@ -31,9 +31,12 @@ export default class PostTemplate extends React.Component {
               {post.title}
             </h1>
           </div>
-          <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
+          <div className="post-body" dangerouslySetInnerHTML={{ __html: postNode.html }} />
           <div className="post-meta">
-            <PostTags tags={post.tags} />
+            <div style={{display: 'flex'}}>
+              <PostTags tags={post.tags} />
+              <div className="post-date">Published: <span className="date">{post.date}</span></div>
+            </div>
             <SocialLinks postPath={slug} postNode={postNode} />
           </div>
           <Disqus post={post} />
@@ -52,7 +55,6 @@ export const pageQuery = graphql`
       excerpt
       frontmatter {
         title
-        cover
         date
         category
         tags

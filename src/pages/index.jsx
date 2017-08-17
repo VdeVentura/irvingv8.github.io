@@ -37,7 +37,6 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
-            cover
             tags
             date
             image {
