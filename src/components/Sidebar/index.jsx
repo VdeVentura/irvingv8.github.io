@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Link from "gatsby-link"
 import profile from './profile.jpg'
 import Navigation from '../Navigation'
 import SiteLinks from '../SiteLinks'
@@ -19,7 +20,7 @@ class Sidebar extends Component {
     return (
       <div className="sidebar">
         <div className="profile-name">
-          <h1>Irving Ventura</h1>
+          <h1><Link to="/">Irving Ventura</Link></h1>
           <div className={`hamburger ${this.state.isOpen ? 'open' : ''}`} onClick={this.toggleCanvas}>
             <span></span>
             <span></span>
@@ -30,9 +31,11 @@ class Sidebar extends Component {
           </div>
         </div>
         <div className={`canvas ${this.state.isOpen ? 'open' : ''}`}>
-          <div className="profile-img">
-            <img src={profile} />
-          </div>
+          <Link to="/">
+            <div className="profile-img">
+              <img src={profile} />
+            </div>
+          </Link>
           <Navigation clickHandler={this.toggleCanvas}/>
           <SiteLinks />
         </div>

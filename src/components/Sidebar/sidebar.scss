@@ -159,21 +159,31 @@
 @media (min-width: 800px) {
   .sidebar {
     flex-shrink: 0;
-    width: 300px!important;
+    width: 250px;
     height: 100vh;
-    background: #373A47;
+    background: rgb(23, 32, 47);
     box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.3);
+
+    @media (min-width: 1600px) {
+      width: 300px;
+    }
 
     .profile-name {
       width: auto;
       background: none;
       box-shadow: none;
       position: absolute;
-      top: 240px;
+      top: 192px;
+
+      @media (min-width: 1600px) {
+        top: 240px;
+      }
     }
+
     .overlay {
       display: none;
     }
+
     .profile-img {
       margin: 0;
 
