@@ -10,14 +10,83 @@ body {
     margin: 0;
     background: #F1F1F1;
     font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Slab', serif;
   color: #03A9F4;
   font-weight: normal;
+  a, a:visited {
+    color: #03A9F4;
+    text-decoration: none;
+  }
+  small {
+    color: rgba(0, 0, 0, 0.4);
+    font-style: italic;
+    font-size: 20px;
+  }
 }
+p {
+  color: black;
+  font-size: 20px;
+  line-height: 1.58;
+
+  &:first-of-type {
+    margin-top: -8px;
+  }
+
+  @media (min-width: 800px) {
+    font-size: 18px;
+  }
+
+  @media (min-width: 1500px) {
+    font-size: 20px;
+  }
+
+  @media (min-width: 1800px) {
+    font-size: 22px;
+  }
+}
+
+h1 {
+  font-size: 35px;
+
+  @media (min-width: 800px) {
+    font-size: 30px;
+  }
+  @media (min-width: 1600px) {
+    font-size: 40px;
+  }
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  @media (min-width: 800px) {
+    font-size: 35px;
+  }
+
+  @media (min-width: 1500px) {
+    font-size: 40px;
+  }
+}
+
+h3 {
+  font-size: 25px;
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  @media (min-width: 1500px) {
+    font-size: 28px;
+  }
+}
+
+ul {
+  list-style: none;
+}
+
 
 .wrapper {
   display: flex;
@@ -27,16 +96,16 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   margin-top: 70px;
   padding: 10px;
-}
 
-@media (min-width: 800px) {
-  .content {
+  @media (min-width: 800px) {
+    width: calc(100% - 250px);
+    padding: 20px;
+    margin: 0 0 0 250px;
+  }
+
+  @media (min-width: 1600px) {
     width: calc(100% - 300px);
     padding: 20px;
     margin: 0 0 0 300px;
   }
-}
-
-ul {
-  list-style: none;
 }
