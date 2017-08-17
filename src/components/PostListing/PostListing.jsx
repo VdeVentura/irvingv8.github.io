@@ -1,7 +1,7 @@
 import React from "react";
 import './style.scss';
 
-import SinglePost from '../SinglePost';
+import CardImage from '../CardImage';
 
 class PostListing extends React.Component {
   getPostList() {
@@ -23,7 +23,14 @@ class PostListing extends React.Component {
 
   renderPosts(postList) {
     return postList.map(post =>
-        <SinglePost post={post} key={post.title}/>
+        <CardImage
+          link={post.path}
+          cover={post.image}
+          header={post.title}
+          body={post.excerpt}
+          footer={["Published on ",<span style={{color:'#ff6d00'}}>{post.date}</span>]}
+          key={post.title}
+        />
     );
   }
 
