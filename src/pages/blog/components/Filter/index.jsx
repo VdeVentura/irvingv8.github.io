@@ -4,6 +4,8 @@ import filter from 'lodash/filter';
 import SelectInput from  '../SelectInput';
 import TextInput from  '../TextInput';
 
+import './style.scss';
+
 class Filter extends Component {
 
   constructor(props) {
@@ -46,14 +48,14 @@ class Filter extends Component {
         <div>
 
           <form onSubmit={e => { e.preventDefault(); }}>
-            <div style={{display: 'flex', flexWrap: 'wrap'}}>
-              <div style={{width: '300px', position: 'relative'}}>
+            <div className="filter-wrapper">
+              <div className="filter">
                 <TextInput
                   onChange={this.handleSearchInput}
                 />
               </div>
 
-              <div style={{marginLeft: '50px', width: '300px'}}>
+              <div className="filter">
                 <SelectInput
                   options={['All'].concat(this.props.categoryList)}
                   label="Category"
@@ -63,7 +65,6 @@ class Filter extends Component {
                 />
               </div>
             </div>
-
           </form>
 
         </div>
