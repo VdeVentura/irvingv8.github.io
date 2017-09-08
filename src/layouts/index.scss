@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
 }
 
 html {
@@ -10,6 +11,10 @@ body {
     margin: 0;
     background: #F1F1F1;
     font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  color: #03A9F4;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -98,14 +103,13 @@ ul {
   padding: 10px;
 
   @media (min-width: 800px) {
-    width: calc(100% - 250px);
+    width: calc(100% - 270px);
     padding: 20px;
-    margin: 0 0 0 250px;
+    margin: 0 0 0 270px;
   }
 
   @media (min-width: 1600px) {
-    width: calc(100% - 300px);
-    padding: 20px;
-    margin: 0 0 0 300px;
+    width: calc(100% - 320px);
+    margin: 0 0 0 320px;
   }
 }

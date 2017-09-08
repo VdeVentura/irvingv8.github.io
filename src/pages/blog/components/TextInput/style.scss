@@ -1,0 +1,51 @@
+.md-input {
+
+  .text-label {
+    font-size: 18px;
+    transition: all 0.1s linear;
+    position: absolute;
+    top: 30px;
+  }
+  .text-input {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #03a9f4;
+    padding: 21px 15px 5px;
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 10px;
+    outline: none;
+  }
+
+  .input-overlay {
+    cursor: pointer;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    opacity: 0;
+    display: none;
+    z-index: 1000;
+  }
+
+  &.active {
+    .text-label {
+      font-weight: 900;
+      font-size: 14px;
+      top: 0px;
+    }
+    .input-overlay {
+      display: block;
+    }
+  }
+
+  &.filled {
+    .text-label {
+      font-weight: 900;
+      font-size: 14px;
+      top: 0px;
+    }
+  }
+}

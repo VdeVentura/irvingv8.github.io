@@ -10,7 +10,7 @@
   padding: 20px;
 
   h1 {
-    font-size: 50px;
+    font-size: 40px;
   }
   h2 {
     font-size: 35px;
@@ -29,7 +29,7 @@
   > .title {
     text-align: center;
     color: #03A9F4;
-    margin: 50px 0;
+    margin: 10px 0 50px;
 
     &::after {
       content: '';
@@ -57,7 +57,8 @@
 
   .post-date {
     font-style: italic;
-    margin-left: auto;
+    margin-bottom: 20px;
+    // margin-left: auto;
 
     .date {
       color: #ff6d00;
@@ -72,14 +73,6 @@
       text-align: center;
       font-size: 15px;
     }
-  }
-}
-
-@media (min-width: 800px) {
-  .full-post {
-    margin-top: -20px;
-    margin-bottom: -20px;
-    margin-right: -20px;
   }
 }
 

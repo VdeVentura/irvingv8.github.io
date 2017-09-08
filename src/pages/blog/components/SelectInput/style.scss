@@ -1,0 +1,127 @@
+.select {
+  position: relative;
+  text-align: left;
+  cursor: pointer;
+
+  &__label {
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 100;
+    height: 40px;
+    position: absolute;
+    opacity: 0.8;
+    color: #303233;
+    z-index: 0;
+
+    p {
+      font-size: 16px;
+      transition: all 0.3s;
+      margin-top: 20px!important;
+      margin-left: 0px;
+    }
+  }
+
+  &__value {
+    font-weight: 100;
+    border-bottom: solid 2px #03A9F4;
+    margin-top: 10px;
+    padding: 22px 15px 5px;
+    line-height: 28px;
+    position: relative;
+    z-index: 1;
+
+    p {
+      margin-top: 0!important;
+      line-height: 20px;
+    }
+
+    &::after{
+      content: '\f0d7';
+      color: #03a9f4;
+      font-size: 20px;
+      font-family: fontAwesome;
+      position: absolute;
+      right: 10px;
+      top: 30%;
+    }
+
+    p {
+      margin: 0;
+      min-height: 20px;
+    }
+  }
+
+  &__options {
+    background: #f4f5f7;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transition: opacity 0.2s, padding 0.2s, max-height 0.2s;
+    overflow: auto;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, .2);
+    z-index: 999;
+
+    .select__option {
+      padding: 13px;
+      transition: all 0.2s;
+
+      &-active,
+      &:hover {
+        background: rgba(0, 0, 0, .1);
+      }
+    }
+  }
+
+  &-active {
+    .select__trigger {
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 9;
+    }
+
+    .select__options {
+      // max-height: 180px;
+      opacity: 1;
+    }
+  }
+
+  &-active,
+  &.selected {
+    .select__label {
+      font-size: 13px!important;
+      font-weight: 900;
+      opacity: 1;
+
+      p {
+        font-size: 14px!important;
+        margin-top: -10px!important;
+        // margin-left: 0;
+      }
+    }
+  }
+
+  &-deactive {
+    .select__value {
+      animation: fadeIn 0.3s;
+    }
+
+    .select__options {
+      background: #f4f5f7;
+      max-height: 0;
+      opacity: 0;
+    }
+  }
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

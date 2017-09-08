@@ -33,9 +33,9 @@ export default class PostTemplate extends React.Component {
           </div>
           <div className="post-body" dangerouslySetInnerHTML={{ __html: postNode.html }} />
           <div className="post-meta">
-            <div style={{display: 'flex'}}>
-              <PostTags tags={post.tags} />
+            <div>
               <div className="post-date">Published: <span className="date">{post.date}</span></div>
+              <PostTags tags={post.categories} />
             </div>
             <SocialLinks postPath={slug} postNode={postNode} />
           </div>

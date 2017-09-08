@@ -158,11 +158,13 @@
 
 @media (min-width: 800px) {
   .sidebar {
+    top: 20px;
+    left: 20px;
     flex-shrink: 0;
     width: 250px;
-    height: 100vh;
+    height: calc(100vh - 40px);
     background: rgb(23, 32, 47);
-    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.5);
 
     @media (min-width: 1600px) {
       width: 300px;
@@ -173,7 +175,7 @@
       background: none;
       box-shadow: none;
       position: absolute;
-      top: 192px;
+      top: 197px;
 
       @media (min-width: 1600px) {
         top: 240px;

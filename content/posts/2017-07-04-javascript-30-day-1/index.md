@@ -2,7 +2,18 @@
 title: "Javascript 30 Day 01"
 image: ./image.png
 date: "07/04/2017"
-category: "Javascript"
+category:
+    - Javascript
+    - Javascript 30 Challenge
+tags:
+    - js
+    - javascript
+    - challenge
+    - 30
+    - wes
+    - bos
+    - day
+    - 1
 ---
 <div>
   <img alt="Javascript Drum Kit" src="./image.png">

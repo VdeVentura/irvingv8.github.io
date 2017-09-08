@@ -95,45 +95,6 @@ class SiteIndex extends React.Component {
           </div>
         </div>
 
-        <h2>Stuff I've done <small>as freelancer</small></h2>
-        <div style={{display:'flex', flexWrap: 'wrap'}}>
-          <CardImage
-            data = {true}
-            cover = {afth}
-            backgroundColor = '#000000'
-            backgroundSize = '80%'
-            header = {'AFTH'}
-            body = {'Helped Marcus Moore redesign his lading page, modified his custom theme, replaced 960 grid with bootstrap.'}
-            footer = {["WP, HTML, CSS, JS"]}
-          />
-          <CardImage
-            data = {true}
-            cover = {moguls}
-            backgroundColor = '#000000'
-            backgroundSize = '80%'
-            header = {'Young Moguls'}
-            body = {'Modified the wordpress checkout process to add a custom form based on how many childs will be registered in the camp, assisted the client to setup some plugins.'}
-            footer = {["WP, WooCommerce, HTML, CSS, JS"]}
-          />
-          <CardImage
-            data = {true}
-            cover = {omnis}
-            backgroundSize = '60%'
-            header = {'Omnis Foundation'}
-            body = {'Worked for some months with Oksana Kariv to adjust several sections of the site and develop a couple of new pages for the non-profit organization dedicated to restoring Ukraine.'}
-            footer = {["WP, HTML, CSS, JS"]}
-          />
-          <CardImage
-            data = {true}
-            cover = {middle}
-            backgroundColor = '#fff'
-            backgroundSize = '80%'
-            header = {'Middle Man'}
-            body = {'Integrated the site with gathr to set up the new screening request and notify buttons'}
-            footer = {["Squarespace, GATHR"]}
-          />
-        </div>
-
         <h2>Skills</h2>
         <div className="skills">
 
@@ -176,6 +137,53 @@ class SiteIndex extends React.Component {
             </ul>
           </div>
 
+        </div>
+
+        <h2>Stuff I've done <small>as freelancer</small></h2>
+        <div style={{display:'flex', flexWrap: 'wrap'}}>
+          <CardImage
+            data = {true}
+            cover = {afth}
+            backgroundColor = '#000000'
+            backgroundSize = '80%'
+            external="true"
+            link="http://aimfortheheart.me/"
+            header = {'AFTH'}
+            body = {'Helped Marcus Moore redesign his lading page, modified his custom theme, replaced 960 grid with bootstrap.'}
+            footer = {["WP, HTML, CSS, JS"]}
+          />
+          <CardImage
+            data = {true}
+            cover = {moguls}
+            backgroundColor = '#000000'
+            backgroundSize = '80%'
+            external="true"
+            link="http://youngmoguls.club/"
+            header = {'Young Moguls'}
+            body = {'Modified the wordpress checkout process to add a custom form based on how many childs will be registered in the camp, assisted the client to setup some plugins.'}
+            footer = {["WP, WooCommerce, HTML, CSS, JS"]}
+          />
+          <CardImage
+            data = {true}
+            cover = {omnis}
+            backgroundSize = '60%'
+            header = {'Omnis Foundation'}
+            external="true"
+            link="https://omnisfoundation.org/"
+            body = {'Worked for some months with Oksana Kariv to adjust several sections of the site and develop a couple of new pages for the non-profit organization dedicated to restoring Ukraine.'}
+            footer = {["WP, HTML, CSS, JS"]}
+          />
+          <CardImage
+            data = {true}
+            cover = {middle}
+            backgroundColor = '#fff'
+            backgroundSize = '80%'
+            external="true"
+            link="http://www.middlemanmovie.com/"
+            header = {'Middle Man'}
+            body = {'Integrated the site with gathr to set up the new screening request and notify buttons'}
+            footer = {["Squarespace, GATHR"]}
+          />
         </div>
 
       </div>

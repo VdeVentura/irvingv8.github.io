@@ -2,7 +2,16 @@
 title: "Setting up Airbnb Style Guide for React in Atom"
 image: image.jpg
 date: "04/19/2017"
-category: "Javascript"
+category:
+    - Javascript
+    - React
+tags:
+    - Javascript
+    - ESlint
+    - Styling
+    - Airbnb
+    - React
+    - Atom
 ---
 
 Some time ago I was working on a project and by accident I ended up looking at the [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react), as you can see by it’s name that’s the Style Guide (some coding conventions) for React by Airbnb.

@@ -16,15 +16,15 @@ class Navigation extends Component {
           </li>
 
           <li className="list-item" onClick={this.props.clickHandler}>
-            <a href="#">
+            <Link exact to="/about" activeClassName="active">
               <i className="fa fa-user" aria-hidden="true"></i> About
-            </a>
+            </Link>
           </li>
 
           <li className="list-item" onClick={this.props.clickHandler}>
-            <a href="#">
+            <Link exact to="/blog" activeClassName="active">
               <i className="fa fa-pencil" aria-hidden="true"></i> Blog
-            </a>
+            </Link>
           </li>
 
           <li className="list-item" onClick={this.props.clickHandler}>
