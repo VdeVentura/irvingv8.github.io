@@ -25,8 +25,20 @@ import './style.scss';
 
 class SiteIndex extends React.Component {
   render() {
+
+    const FAB = () => {
+      return (
+        <div className="fab-download">
+          <a href="/assets/resume.pdf" download>
+            <i className="fa fa-arrow-down" aria-hidden="true"></i>
+          </a>
+        </div>
+      );
+    }
+
     return (
       <div className="resume">
+        {FAB()}
         <div className="timeline">
           <div className="category">
             <h2>Experience</h2>
