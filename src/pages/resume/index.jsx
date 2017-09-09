@@ -15,6 +15,7 @@ import VuejsIcon from './icons/vue';
 import WordpressIcon from './icons/wordpress';
 import NodejsIcon from './icons/node';
 
+import codefuel from './images/codefuel.png';
 import afth from './images/afth.png';
 import omnis from './images/omnisfoundation.png';
 import moguls from './images/youngmoguls.png';
@@ -141,6 +142,17 @@ class SiteIndex extends React.Component {
 
         <h2>Stuff I've done <small>as freelancer</small></h2>
         <div style={{display:'flex', flexWrap: 'wrap'}}>
+          <CardImage
+            data = {true}
+            cover = {codefuel}
+            backgroundColor = '#fff'
+            backgroundSize = '100%'
+            external="true"
+            link="http://codefuel.me/"
+            header = {'Codefuel'}
+            body = {'Designed/Developed a static site built with gatsby for codefyel'}
+            footer = {["React, HTML, CSS, JS"]}
+          />
           <CardImage
             data = {true}
             cover = {afth}
