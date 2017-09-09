@@ -9,11 +9,9 @@ tags:
     - js
     - javascript
     - challenge
-    - 30
     - wes
     - bos
     - day
-    - 1
 ---
 <div>
   <img alt="Javascript Drum Kit" src="./image.png">
