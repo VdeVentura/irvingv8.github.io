@@ -1,7 +1,7 @@
 ---
 title: "Site Revamp + Gatsby 1.0"
 image: ./image-thumbnail.png
-date: "09/29/2017"
+date: "09/10/2017"
 category:
     - Javascript
     - Gatsby
