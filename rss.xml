@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Irving Ventura]]></title><description><![CDATA[Irving Ventura is a Web Developer / Systems Engineer who really enjoys developing in Javascript and wants to share any amazing stuff he learns.]]></description><link>https://irvingv8.github.io/gatsby-advanced-starter</link><image><url>https://irvingv8.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Irving Ventura</title><link>https://irvingv8.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Sun, 10 Sep 2017 05:34:57 GMT</lastBuildDate><atom:link href="https://irvingv8.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Irving Ventura]]></author><copyright><![CDATA[Copyright © 2017. Irving Ventura]]></copyright><item><title><![CDATA[Site Revamp + Gatsby 1.0]]></title><description><![CDATA[Ok, I haven't posted for a while (sorry about that) but there are 2 reasons for it...]]></description><link>https://irvingv8.github.io/gatsby-advanced-starter/site-revamp-gatsby-1-0</link><guid isPermaLink="false">https://irvingv8.github.io/gatsby-advanced-starter/site-revamp-gatsby-1-0</guid><category><![CDATA[Javascript]]></category><category><![CDATA[Gatsby]]></category><dc:creator><![CDATA[Irving Ventura]]></dc:creator><pubDate>Fri, 29 Sep 2017 04:00:00 GMT</pubDate><content:encoded>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Irving Ventura]]></title><description><![CDATA[Irving Ventura is a Web Developer / Systems Engineer who really enjoys developing in Javascript and wants to share any amazing stuff he learns.]]></description><link>https://irvingv8.github.io/gatsby-advanced-starter</link><image><url>https://irvingv8.github.io/gatsby-advanced-starter/logos/logo-512.png</url><title>Irving Ventura</title><link>https://irvingv8.github.io/gatsby-advanced-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Sun, 10 Sep 2017 20:34:56 GMT</lastBuildDate><atom:link href="https://irvingv8.github.io/gatsby-advanced-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Irving Ventura]]></author><copyright><![CDATA[Copyright © 2017. Irving Ventura]]></copyright><item><title><![CDATA[Site Revamp + Gatsby 1.0]]></title><description><![CDATA[Ok, I haven't posted for a while (sorry about that) but there are 2 reasons for it...]]></description><link>https://irvingv8.github.io/gatsby-advanced-starter/site-revamp-gatsby-1-0</link><guid isPermaLink="false">https://irvingv8.github.io/gatsby-advanced-starter/site-revamp-gatsby-1-0</guid><category><![CDATA[Javascript]]></category><category><![CDATA[Gatsby]]></category><dc:creator><![CDATA[Irving Ventura]]></dc:creator><pubDate>Sun, 10 Sep 2017 04:00:00 GMT</pubDate><content:encoded>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/12e22f128e5a8ddb67c3307019545a20-abd41.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/12e22f128e5a8ddb67c3307019545a20-abd41.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 39.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAAsSAAALEgHS3X78AAAA/ElEQVQoz62Ry2rCQBiFfeS+RF+gjyAUrUJXXSgRc5EWjS0aEy+RODEa4r1RY25ujsNAFFowWbg4/IcZ+GbOf3K+F+KRyv09CPwIcXxGSGfoxwhOEVPik5kZaCgO8s88uhKB0lVhEgv6cMy8Zc4hN9swJxZWiw1+t/t0YKui4+XpA+K7BoGXINQlFF6LqHF1NL9aeCuU6JRRrXBYL7c47k/3gURbgC/3YPQcjOjPNHWAhviJYV+nGuFb/mGeq9aw27jpwDCIsLJdtkPv4LNoZDLFbGpj6azZDg+uB3vmsPvUyEkx152OCYuqdFQKnd8epuBMpfyDX5u9326iC64MV2yJT86hAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Gatsby js&quot; title=&quot;&quot; src=&quot;/static/12e22f128e5a8ddb67c3307019545a20-44d6a.png&quot; srcset=&quot;/static/12e22f128e5a8ddb67c3307019545a20-f4799.png 173w,
-/static/12e22f128e5a8ddb67c3307019545a20-b3b1d.png 345w,
-/static/12e22f128e5a8ddb67c3307019545a20-44d6a.png 690w,
-/static/12e22f128e5a8ddb67c3307019545a20-bc0f7.png 1035w,
-/static/12e22f128e5a8ddb67c3307019545a20-abd41.png 1200w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Gatsby js&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/12e22f128e5a8ddb67c3307019545a20-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/12e22f128e5a8ddb67c3307019545a20-f4799.png 173w,
+/gatsby-advanced-starter/static/12e22f128e5a8ddb67c3307019545a20-b3b1d.png 345w,
+/gatsby-advanced-starter/static/12e22f128e5a8ddb67c3307019545a20-44d6a.png 690w,
+/gatsby-advanced-starter/static/12e22f128e5a8ddb67c3307019545a20-bc0f7.png 1035w,
+/gatsby-advanced-starter/static/12e22f128e5a8ddb67c3307019545a20-abd41.png 1200w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -36,17 +36,17 @@
 &lt;p&gt;Gatsby also counts with a list of &quot;starters&quot; (templates for your site) that can help you get up and running faster. For this site initially I wanted to use the &lt;a href=&quot;https://github.com/Vagr9K/gatsby-material-starter&quot;&gt;Gatsby Material Starter&lt;/a&gt; but after playing around with it I found that React-MD was not going to help me achieve my design so I decided to use the &lt;a href=&quot;https://github.com/Vagr9K/gatsby-advanced-starter&quot;&gt;Gatsby Advanced Starter&lt;/a&gt; as it packs lots of nice stuff out of the box (GA, Disqus, SEO, among others). Both of this starters are made by &lt;a href=&quot;https://vagr9k.me/&quot;&gt;Ruben Harutyunyan&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This will be it for today, stay tuned for the second part of this series where I&apos;ll comment on some cool stuff I found along the way and of course give you some insights on the actual development of the site with Gatsby.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Javascript 30 Day 02]]></title><description><![CDATA[This is the second part of the Javascript 30 series I've been posting. #JavaScript30 is a challenge by Wes Bos and the idea is to Build 3...]]></description><link>https://irvingv8.github.io/gatsby-advanced-starter/javascript-30-day-02</link><guid isPermaLink="false">https://irvingv8.github.io/gatsby-advanced-starter/javascript-30-day-02</guid><category><![CDATA[js]]></category><category><![CDATA[javascript]]></category><category><![CDATA[challenge]]></category><category><![CDATA[wes]]></category><category><![CDATA[bos]]></category><category><![CDATA[day]]></category><dc:creator><![CDATA[Irving Ventura]]></dc:creator><pubDate>Sun, 09 Jul 2017 04:00:00 GMT</pubDate><content:encoded>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2e828ed3e0efe1d36d68288643c8ad6c-fa2a1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/2e828ed3e0efe1d36d68288643c8ad6c-fa2a1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 35.57692307692307%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABYlAAAWJQFJUiTwAAABtklEQVQoz2WQ30tTYRjHnybIiEN01/Y3xDaKwKwkK7KiC8WgwH5gYRcRCF101UW6VQ4hvGlqddFuhC4SCrIECyoMopgQkl5IwmyTuR3Edc52GPOcT8+ON4kvfHheXp7vh+d9RF55yJTyRZlTljyaVj32rHvssz1a7RrJYomRtSKtZYdmfZessqBklFnlg/LORd4oMlhAEkXkoYkk15GRDST1F0k77J+x+LWSp16vU6vVyJdM2qe0Z9RChrU+0swDzcbXkAH13F9Fdt3KEOxKbad7jODVNK9//MZ1XRrHtm2/ZpZy7L7yguCF0R25wM1ZpKl7knA4TCgU2kE2u+JLHMfBNE3/XiyViEQi2/oa+QbN58Z0wjMTGLFejKgSu47Rchuj7Q7Gibt8/L5IpVLBsiyq1aovXFzOsbfjHsaRfoyDff9lewmceqY7PKrWBseeIicnkK5p5NIn5No32pPzZP/k2Nx0/S9vlMv0pOaRG3NIz1fk7CTS9lyz4+oY3/JINI5EE8iBIeRwCjmeRk6/RDqnCfT95PKTAvH3eRKfC7QMLyAXdU+dM8j5t1sDHHqMxDTve+L8A1pvVZfuLD0hAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Javascript Drum Kit&quot; title=&quot;&quot; src=&quot;/static/2e828ed3e0efe1d36d68288643c8ad6c-44d6a.png&quot; srcset=&quot;/static/2e828ed3e0efe1d36d68288643c8ad6c-f4799.png 173w,
-/static/2e828ed3e0efe1d36d68288643c8ad6c-b3b1d.png 345w,
-/static/2e828ed3e0efe1d36d68288643c8ad6c-44d6a.png 690w,
-/static/2e828ed3e0efe1d36d68288643c8ad6c-bc0f7.png 1035w,
-/static/2e828ed3e0efe1d36d68288643c8ad6c-b50e5.png 1380w,
-/static/2e828ed3e0efe1d36d68288643c8ad6c-0ed32.png 2070w,
-/static/2e828ed3e0efe1d36d68288643c8ad6c-fa2a1.png 2496w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Javascript Drum Kit&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/2e828ed3e0efe1d36d68288643c8ad6c-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/2e828ed3e0efe1d36d68288643c8ad6c-f4799.png 173w,
+/gatsby-advanced-starter/static/2e828ed3e0efe1d36d68288643c8ad6c-b3b1d.png 345w,
+/gatsby-advanced-starter/static/2e828ed3e0efe1d36d68288643c8ad6c-44d6a.png 690w,
+/gatsby-advanced-starter/static/2e828ed3e0efe1d36d68288643c8ad6c-bc0f7.png 1035w,
+/gatsby-advanced-starter/static/2e828ed3e0efe1d36d68288643c8ad6c-b50e5.png 1380w,
+/gatsby-advanced-starter/static/2e828ed3e0efe1d36d68288643c8ad6c-0ed32.png 2070w,
+/gatsby-advanced-starter/static/2e828ed3e0efe1d36d68288643c8ad6c-fa2a1.png 2496w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -126,17 +126,17 @@ secondsHand&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;style&l
 &lt;p&gt;That was it for Day 2! See you tomorrow for the next challenge.&lt;/p&gt;
 &lt;p&gt;Keep On Hacking!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Javascript 30 Day 01]]></title><description><![CDATA[This is the first part of the Javascript 30 series I'll be posting. #JavaScript30 is a challenge by Wes Bos and the idea is to Build 3...]]></description><link>https://irvingv8.github.io/gatsby-advanced-starter/javascript-30-day-01</link><guid isPermaLink="false">https://irvingv8.github.io/gatsby-advanced-starter/javascript-30-day-01</guid><category><![CDATA[js]]></category><category><![CDATA[javascript]]></category><category><![CDATA[challenge]]></category><category><![CDATA[wes]]></category><category><![CDATA[bos]]></category><category><![CDATA[day]]></category><dc:creator><![CDATA[Irving Ventura]]></dc:creator><pubDate>Tue, 04 Jul 2017 04:00:00 GMT</pubDate><content:encoded>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/4c5a6766c92b5cc9127726d650cb416c-536a3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/4c5a6766c92b5cc9127726d650cb416c-536a3.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 26.053042121684868%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAABF0lEQVQY0zWQS26DQBBEuUWsLAIECCb8wSDMP+AITETkBfLG9z/HCzORF6Ounqmpri4ljmOSJCHLMrZt4/F4yL5pGjzPoyxLiZ+caZro+55lWWjbljAMCYKAKIpI0xRFCIpmGAZJKjKfsXXpKg/btgkDjyJROacqvufKIUIkz3Msy5LidV1jmibzPKMYhkF+ihC1yHfh2mGZv+lKG8fWcawXpktJFmm866809Xl3G+M6Bq7r0ncVh8MBy1TRNA1F13V0XUNWTeX3p+Or2qeN0e7mk7YuqPM3tvW0u2m5jAP3+313VTKOI/aHJePouobj8YgibD+P7/v/pH1VsZrIRuQqPggsshTv67pKd+Luer1yu90kdhyHP5PMoSzWnFN8AAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Javascript Drum Kit&quot; title=&quot;&quot; src=&quot;/static/4c5a6766c92b5cc9127726d650cb416c-44d6a.png&quot; srcset=&quot;/static/4c5a6766c92b5cc9127726d650cb416c-f4799.png 173w,
-/static/4c5a6766c92b5cc9127726d650cb416c-b3b1d.png 345w,
-/static/4c5a6766c92b5cc9127726d650cb416c-44d6a.png 690w,
-/static/4c5a6766c92b5cc9127726d650cb416c-bc0f7.png 1035w,
-/static/4c5a6766c92b5cc9127726d650cb416c-b50e5.png 1380w,
-/static/4c5a6766c92b5cc9127726d650cb416c-0ed32.png 2070w,
-/static/4c5a6766c92b5cc9127726d650cb416c-536a3.png 2564w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Javascript Drum Kit&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/4c5a6766c92b5cc9127726d650cb416c-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/4c5a6766c92b5cc9127726d650cb416c-f4799.png 173w,
+/gatsby-advanced-starter/static/4c5a6766c92b5cc9127726d650cb416c-b3b1d.png 345w,
+/gatsby-advanced-starter/static/4c5a6766c92b5cc9127726d650cb416c-44d6a.png 690w,
+/gatsby-advanced-starter/static/4c5a6766c92b5cc9127726d650cb416c-bc0f7.png 1035w,
+/gatsby-advanced-starter/static/4c5a6766c92b5cc9127726d650cb416c-b50e5.png 1380w,
+/gatsby-advanced-starter/static/4c5a6766c92b5cc9127726d650cb416c-0ed32.png 2070w,
+/gatsby-advanced-starter/static/4c5a6766c92b5cc9127726d650cb416c-536a3.png 2564w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -221,14 +221,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;p&gt;If you take your time and read through it, you will notice that the people at Airbnb has spent some time with it as all their decisions have some good reasons behind it, for example:&lt;/p&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/b55ab5ec6be7eedd7d2490172b18ca44-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/b55ab5ec6be7eedd7d2490172b18ca44-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 11.328125%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAIAAADXZGvcAAAACXBIWXMAAAsSAAALEgHS3X78AAAAVElEQVQI1x3LWQrAMAgE0Nz/no2NdeuC5KOBTpVBnorNI5hZRLZOBeUDJUQEYByDB7OZAxJz1yTNrpnzbWstj/O6H3QEigJ2ao7RagtUfogarnj5AIULb/T6PUBMAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 1&quot; title=&quot;&quot; src=&quot;/static/b55ab5ec6be7eedd7d2490172b18ca44-44d6a.png&quot; srcset=&quot;/static/b55ab5ec6be7eedd7d2490172b18ca44-f4799.png 173w,
-/static/b55ab5ec6be7eedd7d2490172b18ca44-b3b1d.png 345w,
-/static/b55ab5ec6be7eedd7d2490172b18ca44-44d6a.png 690w,
-/static/b55ab5ec6be7eedd7d2490172b18ca44-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 1&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/b55ab5ec6be7eedd7d2490172b18ca44-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/b55ab5ec6be7eedd7d2490172b18ca44-f4799.png 173w,
+/gatsby-advanced-starter/static/b55ab5ec6be7eedd7d2490172b18ca44-b3b1d.png 345w,
+/gatsby-advanced-starter/static/b55ab5ec6be7eedd7d2490172b18ca44-44d6a.png 690w,
+/gatsby-advanced-starter/static/b55ab5ec6be7eedd7d2490172b18ca44-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -240,14 +240,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;/div&gt;&lt;/body&gt;&lt;/html&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/614a7338cd661ee0bd8e587136c9de99-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/614a7338cd661ee0bd8e587136c9de99-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 11.328125%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAIAAADXZGvcAAAACXBIWXMAAAsSAAALEgHS3X78AAAAU0lEQVQI11WJSw6AIBBDvf8tNcyPUCTMTkh0YOdbNO3r4e6iyqJALUAJdmJRA6y5emvt/XPMOYlVLLMai5GYWg4T/bxSIglPouF5X2EK7t79GeMDorNvXlv1EWcAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 2&quot; title=&quot;&quot; src=&quot;/static/614a7338cd661ee0bd8e587136c9de99-44d6a.png&quot; srcset=&quot;/static/614a7338cd661ee0bd8e587136c9de99-f4799.png 173w,
-/static/614a7338cd661ee0bd8e587136c9de99-b3b1d.png 345w,
-/static/614a7338cd661ee0bd8e587136c9de99-44d6a.png 690w,
-/static/614a7338cd661ee0bd8e587136c9de99-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 2&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/614a7338cd661ee0bd8e587136c9de99-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/614a7338cd661ee0bd8e587136c9de99-f4799.png 173w,
+/gatsby-advanced-starter/static/614a7338cd661ee0bd8e587136c9de99-b3b1d.png 345w,
+/gatsby-advanced-starter/static/614a7338cd661ee0bd8e587136c9de99-44d6a.png 690w,
+/gatsby-advanced-starter/static/614a7338cd661ee0bd8e587136c9de99-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -259,14 +259,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;/div&gt;&lt;/body&gt;&lt;/html&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/00716c177530bee5a904fab0f79c28a6-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/00716c177530bee5a904fab0f79c28a6-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 11.71875%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAIAAADXZGvcAAAACXBIWXMAAAsSAAALEgHS3X78AAAAYElEQVQI1y2NORYDMQxC5/73TLyMrQXJcd6ocFSERwEUn8vMRJSIxpgsks7g7nNOwO4xFEbEKcXq8q20O+/GG+u5nohS+6u0d2m13QmAua+PKkSRiUWz/kfklyc0Is45P8tDcPNpW1MhAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/static/00716c177530bee5a904fab0f79c28a6-44d6a.png&quot; srcset=&quot;/static/00716c177530bee5a904fab0f79c28a6-f4799.png 173w,
-/static/00716c177530bee5a904fab0f79c28a6-b3b1d.png 345w,
-/static/00716c177530bee5a904fab0f79c28a6-44d6a.png 690w,
-/static/00716c177530bee5a904fab0f79c28a6-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/00716c177530bee5a904fab0f79c28a6-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/00716c177530bee5a904fab0f79c28a6-f4799.png 173w,
+/gatsby-advanced-starter/static/00716c177530bee5a904fab0f79c28a6-b3b1d.png 345w,
+/gatsby-advanced-starter/static/00716c177530bee5a904fab0f79c28a6-44d6a.png 690w,
+/gatsby-advanced-starter/static/00716c177530bee5a904fab0f79c28a6-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -288,14 +288,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;p&gt;However, I ended up running with troubles everytime I tried to lint my code while following those guides specially one about “estraverse-fb” and another about my react import being unable to resolve “import/no-unresolved”&lt;/p&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/ce7113ee8b01febfce4b7cc1fca8af37-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/ce7113ee8b01febfce4b7cc1fca8af37-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 28.515625%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAAsSAAALEgHS3X78AAAA5klEQVQY02WQ207DMBBE+/9fh5z47thJo9A2SU1KoC2FB06wBA9II2sl75nd2d1wODVpr22Q2tXaNqmXthMqhvTcD8fjONMw5+V6f/zX7rK+WR83UlmK7Q1Jao9LPxzW9xtNt4/P++MLUaA/mG/GVsqA+dDigkUljTK+1i51PYrtZuRjO51fTtO52KEf2AUWVsaBw8BXUpcCnuJJSBx90xKBLHO+5GXNyyvw1YYolcUCWBonJFto4xq6lQ2uSQJvH8G6fiD/OGVWGOe8TQ6xY5Smq92X8KJWDCQOFyyHMC6Uo/7G5v0GJgY/6CMDqfYAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/static/ce7113ee8b01febfce4b7cc1fca8af37-44d6a.png&quot; srcset=&quot;/static/ce7113ee8b01febfce4b7cc1fca8af37-f4799.png 173w,
-/static/ce7113ee8b01febfce4b7cc1fca8af37-b3b1d.png 345w,
-/static/ce7113ee8b01febfce4b7cc1fca8af37-44d6a.png 690w,
-/static/ce7113ee8b01febfce4b7cc1fca8af37-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/ce7113ee8b01febfce4b7cc1fca8af37-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/ce7113ee8b01febfce4b7cc1fca8af37-f4799.png 173w,
+/gatsby-advanced-starter/static/ce7113ee8b01febfce4b7cc1fca8af37-b3b1d.png 345w,
+/gatsby-advanced-starter/static/ce7113ee8b01febfce4b7cc1fca8af37-44d6a.png 690w,
+/gatsby-advanced-starter/static/ce7113ee8b01febfce4b7cc1fca8af37-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -311,14 +311,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;p&gt;If you follow the Installation instructions:&lt;/p&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/7a7950bb2cb0c46708bfadebcfd9e8a1-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/7a7950bb2cb0c46708bfadebcfd9e8a1-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 28.125%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAAsSAAALEgHS3X78AAAAiElEQVQY043OSQrDMAwFUN//kA7YGw/yhOdm0coKDd605K2E4EufSSmFEMdxSMI5b63VWnvv19BIJ3PO94ZZY7XWSilr14BKKTnnQvLXvZwbFkLw3gfinMMnr7/ODYsxggVwCwDg7THG/G1s1mdsbozBJDbHEyklPNEeYNgZn0eqfdXHPIbPBz5R21dqjxSVjQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/static/7a7950bb2cb0c46708bfadebcfd9e8a1-44d6a.png&quot; srcset=&quot;/static/7a7950bb2cb0c46708bfadebcfd9e8a1-f4799.png 173w,
-/static/7a7950bb2cb0c46708bfadebcfd9e8a1-b3b1d.png 345w,
-/static/7a7950bb2cb0c46708bfadebcfd9e8a1-44d6a.png 690w,
-/static/7a7950bb2cb0c46708bfadebcfd9e8a1-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/7a7950bb2cb0c46708bfadebcfd9e8a1-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/7a7950bb2cb0c46708bfadebcfd9e8a1-f4799.png 173w,
+/gatsby-advanced-starter/static/7a7950bb2cb0c46708bfadebcfd9e8a1-b3b1d.png 345w,
+/gatsby-advanced-starter/static/7a7950bb2cb0c46708bfadebcfd9e8a1-44d6a.png 690w,
+/gatsby-advanced-starter/static/7a7950bb2cb0c46708bfadebcfd9e8a1-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -334,14 +334,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;/ul&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/d25c10df3709b8cc98ee44e216ca9fd0-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/d25c10df3709b8cc98ee44e216ca9fd0-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 10.83984375%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAAAsSAAALEgHS3X78AAAAX0lEQVQI12OwDE777Ryd898/Ie2/X3z6f18gdgzO+O8QlPZf2TLyv4J5OASbEcZypmF/GPQ9U35ZBWf/tQ7J/WsTmvvXIij7r5lnyl81m8i/ylbhUBzxV4UIrGQR9gsA08pHM3guf2QAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/static/d25c10df3709b8cc98ee44e216ca9fd0-44d6a.png&quot; srcset=&quot;/static/d25c10df3709b8cc98ee44e216ca9fd0-f4799.png 173w,
-/static/d25c10df3709b8cc98ee44e216ca9fd0-b3b1d.png 345w,
-/static/d25c10df3709b8cc98ee44e216ca9fd0-44d6a.png 690w,
-/static/d25c10df3709b8cc98ee44e216ca9fd0-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/d25c10df3709b8cc98ee44e216ca9fd0-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/d25c10df3709b8cc98ee44e216ca9fd0-f4799.png 173w,
+/gatsby-advanced-starter/static/d25c10df3709b8cc98ee44e216ca9fd0-b3b1d.png 345w,
+/gatsby-advanced-starter/static/d25c10df3709b8cc98ee44e216ca9fd0-44d6a.png 690w,
+/gatsby-advanced-starter/static/d25c10df3709b8cc98ee44e216ca9fd0-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -356,14 +356,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;/ul&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/540af0f97320f80aa3634171aba6973f-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/540af0f97320f80aa3634171aba6973f-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 12.79296875%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAAAsSAAALEgHS3X78AAAAmUlEQVQI13XMywqCQBiG4W4kItGEoF2ZykxjtepgoFDmedWMRXj/oHx/Zm1dPLy7d+SEstmnb7qUsqPILxR5YUUieJAuCtJESdqmK89pyjKaWNGg8fLWjuzg2XhRDREq8ED2HF/B9SXm2wIGT/8yGCyF7saDNDv6Dl+NuNawzxVWB9mzjhLrk8Jil2PG4p7JE5gs+XWA7t7bD5ZYa/s35OsYAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/static/540af0f97320f80aa3634171aba6973f-44d6a.png&quot; srcset=&quot;/static/540af0f97320f80aa3634171aba6973f-f4799.png 173w,
-/static/540af0f97320f80aa3634171aba6973f-b3b1d.png 345w,
-/static/540af0f97320f80aa3634171aba6973f-44d6a.png 690w,
-/static/540af0f97320f80aa3634171aba6973f-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/540af0f97320f80aa3634171aba6973f-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/540af0f97320f80aa3634171aba6973f-f4799.png 173w,
+/gatsby-advanced-starter/static/540af0f97320f80aa3634171aba6973f-b3b1d.png 345w,
+/gatsby-advanced-starter/static/540af0f97320f80aa3634171aba6973f-44d6a.png 690w,
+/gatsby-advanced-starter/static/540af0f97320f80aa3634171aba6973f-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -378,14 +378,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;/ul&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/844d694a46ee422294e1c8cf507ed9f7-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/844d694a46ee422294e1c8cf507ed9f7-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 9.27734375%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAAAsSAAALEgHS3X78AAAAPklEQVQI12OwDE7/7Ryd898/Ie2/X3w6GDsGZ/x3CEr7r2of91/ZPv6/kl0cBNvG/lcwC8eJ5UzD/jBQ20AAOTFIZdG+r/oAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/static/844d694a46ee422294e1c8cf507ed9f7-44d6a.png&quot; srcset=&quot;/static/844d694a46ee422294e1c8cf507ed9f7-f4799.png 173w,
-/static/844d694a46ee422294e1c8cf507ed9f7-b3b1d.png 345w,
-/static/844d694a46ee422294e1c8cf507ed9f7-44d6a.png 690w,
-/static/844d694a46ee422294e1c8cf507ed9f7-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/844d694a46ee422294e1c8cf507ed9f7-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/844d694a46ee422294e1c8cf507ed9f7-f4799.png 173w,
+/gatsby-advanced-starter/static/844d694a46ee422294e1c8cf507ed9f7-b3b1d.png 345w,
+/gatsby-advanced-starter/static/844d694a46ee422294e1c8cf507ed9f7-44d6a.png 690w,
+/gatsby-advanced-starter/static/844d694a46ee422294e1c8cf507ed9f7-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -400,14 +400,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;/ul&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/2d8be2958144e9300699abadea3fc784-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/2d8be2958144e9300699abadea3fc784-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 15.8203125%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAAAsSAAALEgHS3X78AAAAkUlEQVQI12OwDE777Ryd898/If2/XzwEO4Vk/ncISvuvah/3X9kh/r8ykFYCYdvY/wrm4TixnGnYHwa3mILfkVn1/6OyGv77JVf9d48s+u8aXvDfI6r4v3Vw9n/LwOz/ajaR/9Vso/6rE8AqVhF/GAy9U38ZeyT9BWr6q2odAcYqYDryr4pVOARDxQlhJcvwXwBtumyKw5lliQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/static/2d8be2958144e9300699abadea3fc784-44d6a.png&quot; srcset=&quot;/static/2d8be2958144e9300699abadea3fc784-f4799.png 173w,
-/static/2d8be2958144e9300699abadea3fc784-b3b1d.png 345w,
-/static/2d8be2958144e9300699abadea3fc784-44d6a.png 690w,
-/static/2d8be2958144e9300699abadea3fc784-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/2d8be2958144e9300699abadea3fc784-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/2d8be2958144e9300699abadea3fc784-f4799.png 173w,
+/gatsby-advanced-starter/static/2d8be2958144e9300699abadea3fc784-b3b1d.png 345w,
+/gatsby-advanced-starter/static/2d8be2958144e9300699abadea3fc784-44d6a.png 690w,
+/gatsby-advanced-starter/static/2d8be2958144e9300699abadea3fc784-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -427,14 +427,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;p&gt;The second one should be at your index component and could look something like this:&lt;/p&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/236e52072c4749822451784ad5cf7930-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/236e52072c4749822451784ad5cf7930-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 17.87109375%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAIAAAABPYjBAAAACXBIWXMAAAsSAAALEgHS3X78AAAAoklEQVQI14WO2wqCQBRF/X8MtDLoKehnxEtQPxA12GSZozPnnLn1YBYFvrVZbPbLgh1IQHaiMxNHdq0Y8Ka6iVqoHkn/JTDGdg/XtjiipBaqMc66YfAf3K+/+KebJLDWAdgetJRGIyKpcUGZqyyTaQp5hmVqdoU97G2ReSn9JG9ZEnVEYnzaK0IS/HJP4jqKeThrFvN2FcI60dsNLSPH+VR+AVYk3H3XElNMAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/static/236e52072c4749822451784ad5cf7930-44d6a.png&quot; srcset=&quot;/static/236e52072c4749822451784ad5cf7930-f4799.png 173w,
-/static/236e52072c4749822451784ad5cf7930-b3b1d.png 345w,
-/static/236e52072c4749822451784ad5cf7930-44d6a.png 690w,
-/static/236e52072c4749822451784ad5cf7930-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/236e52072c4749822451784ad5cf7930-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/236e52072c4749822451784ad5cf7930-f4799.png 173w,
+/gatsby-advanced-starter/static/236e52072c4749822451784ad5cf7930-b3b1d.png 345w,
+/gatsby-advanced-starter/static/236e52072c4749822451784ad5cf7930-44d6a.png 690w,
+/gatsby-advanced-starter/static/236e52072c4749822451784ad5cf7930-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -447,14 +447,14 @@ key&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=
 &lt;p&gt;This one seems to be pretty crazy but it’s just ESLint not being aware of the browser global variables, and it can be solved by adding the browser environment to your eslintrc, which would look like this:&lt;/p&gt;
 &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;div class=&quot;image half&quot;&gt;
   
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/0e63752433331d6dc20a41dd58d47ee4-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-advanced-starter/static/0e63752433331d6dc20a41dd58d47ee4-8ca9e.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 690px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 26.3671875%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsSAAALEgHS3X78AAAAV0lEQVQY05XPsQ6AIAwEUP7/I11NVEAK9HpONnExLkKXDr2XS4ORIKUn6bkCRfUanmBGX6XFQ7amlXJOYe9mlN2bYfYLPPzFMF3TkmucwwCet5uW92EE312LI1yuPTczAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/static/0e63752433331d6dc20a41dd58d47ee4-44d6a.png&quot; srcset=&quot;/static/0e63752433331d6dc20a41dd58d47ee4-f4799.png 173w,
-/static/0e63752433331d6dc20a41dd58d47ee4-b3b1d.png 345w,
-/static/0e63752433331d6dc20a41dd58d47ee4-44d6a.png 690w,
-/static/0e63752433331d6dc20a41dd58d47ee4-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Airbnb Style Guide Example 3&quot; title=&quot;&quot; src=&quot;/gatsby-advanced-starter/static/0e63752433331d6dc20a41dd58d47ee4-44d6a.png&quot; srcset=&quot;/gatsby-advanced-starter/static/0e63752433331d6dc20a41dd58d47ee4-f4799.png 173w,
+/gatsby-advanced-starter/static/0e63752433331d6dc20a41dd58d47ee4-b3b1d.png 345w,
+/gatsby-advanced-starter/static/0e63752433331d6dc20a41dd58d47ee4-44d6a.png 690w,
+/gatsby-advanced-starter/static/0e63752433331d6dc20a41dd58d47ee4-8ca9e.png 1024w&quot; sizes=&quot;(max-width: 690px) 100vw, 690px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
