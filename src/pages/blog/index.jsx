@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import CardImage from '../../components/CardImage';
-import Filter from './components/Filter';
+import Filter from '../../components/Filter';
 import _filter from 'lodash/filter';
 import _union from 'lodash/union';
 import _includes from 'lodash/includes';

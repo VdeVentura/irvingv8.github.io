@@ -53,7 +53,12 @@ class SelectInput extends Component {
 
                 <div className='select__options'>
 
-                    {this.props.options.map((option) => {
+                    {
+                      this.props.options.map((option) => {
+
+                        if (!option) {
+                          return null;
+                        }
 
                         let type = option.constructor === String ? 'String' : option.constructor === Object ? 'Object' : false
 
@@ -61,7 +66,8 @@ class SelectInput extends Component {
 
                         return type ? <div className={'select__option' + (this.props.value == option[Object.keys(option)[0]] ? ' select__option-active' : '')} onClick={this.handleClick} data-value={option[Object.keys(option)[0]]} key={option[Object.keys(option)[0]]}>{Object.keys(option)[0]}</div> : ''
 
-                    })}
+                      })
+                    }
 
                 </div>
 
