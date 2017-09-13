@@ -152,7 +152,7 @@ class SiteIndex extends React.Component {
 
         </div>
 
-        <h2>Stuff I've done <small>as freelancer</small></h2>
+        <h2>Stuff I've done</h2>
         <div style={{display:'flex', flexWrap: 'wrap'}}>
           <CardImage
             data = {true}
@@ -162,7 +162,7 @@ class SiteIndex extends React.Component {
             external="true"
             link="http://codefuel.me/"
             header = {'Codefuel'}
-            body = {'Designed/Developed a static site built with gatsby for codefyel'}
+            body = {'Designed/Developed a static site built with gatsby for codefuel'}
             footer = {["React, HTML, CSS, JS"]}
           />
           <CardImage
