@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/setting-up-airbnb-style-guide-for-react-in-atom</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/javascript-30-day-01</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/javascript-30-day-02</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/setting-up-airbnb-style-guide-for-react-in-atom</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/site-revamp-gatsby-1-0</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/javascript-30-day-01</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/higher-order-components</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/angular/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/css/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/cplusplus/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/html/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/css/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/git/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/html/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/js/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/node/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/php/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/redux/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/vue/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://irvingv8.github.io/gatsby-advanced-starter/resume/icons/wordpress/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
