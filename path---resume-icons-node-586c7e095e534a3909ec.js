@@ -1,2 +1,0 @@
-webpackJsonp([37028789095503],{"./node_modules/json-loader/index.js!./.cache/json/resume-icons-node.json":function(o,e){o.exports={pathContext:{}}}});
-//# sourceMappingURL=path---resume-icons-node-586c7e095e534a3909ec.js.map
